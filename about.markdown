@@ -1,14 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am currently a first year Computer Science PhD student at Dartmouth College. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+If you want to know more about me, I have some anime opening covers available at [https://space.bilibili.com/6973232](https://space.bilibili.com/6973232), made during my college life at CMU. 
 
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
